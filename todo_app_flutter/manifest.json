@@ -1,12 +1,12 @@
 {
-    "name": "me",
-    "short_name": "me",
+    "name": "To-Do List",
+    "short_name": "To-Do",
     "start_url": ".",
-    "display": "minimal-ui",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "display": "standalone",
+    "background_color": "#2196F3",
+    "theme_color": "#2196F3",
+    "description": "A To-Do list application made in Flutter.",
+    "orientation": "portrait",
     "prefer_related_applications": false,
     "icons": [
         {
