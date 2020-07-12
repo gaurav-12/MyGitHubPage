@@ -1,5 +1,5 @@
 # Hey there 👋
-Welcome to [my](https://github.com/gaurav-12) Github Page. Below are my published projects.
+Welcome to [my](https://github.com/gaurav-12) Github Page. Below are some, but not all, of my small projects:
 
 ## Published Projects
 ### 📚 [Books Website](https://gaurav-12.github.io/books_website/)
@@ -8,5 +8,5 @@ It is a static website I developed in 3rd year of my Graduation. It is made comp
 ### ✅ [To-Do List Web App](https://gaurav-12.github.io/todo_list/#/)
 It is a To-Do Web Application I made while learning **Flutter**.
 
-### ✅ [Chat App](https://gaurav-12.github.io/chat_app)
+### 💬 [Chat App](https://gaurav-12.github.io/chat_app)
 A [socket](https://socket.io/) based Chatting web application, made in **Flutter**.
