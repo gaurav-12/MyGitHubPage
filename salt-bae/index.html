@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Salt-Bae Meme Generator</title>
+    <link rel="manifest" href="manifest.json" crossorigin="anonymous" />
+    <link rel="icon" type="image/x-icon" href="public/icons/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script src="script.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker
+                .register('/service-worker.js')
+                .then(function () { console.log("Service Worker Registered"); });
+        }
+    </script>
+</head>
+
+<body>
+    <div id="container">
+        <section>
+            <canvas id="canvas" width="500" height="500">
+                Canvas requires a browser that supports HTML5.
+            </canvas>
+            <img id="memeimage" crossorigin="anonymous"
+                src="http://res.cloudinary.com/dlwnmz6lr/image/upload/v1520011253/170203-salt-bae-mn-1530_060e5898cdcf7b58f97126d3cfbfdf71.nbcnews-ux-2880-1000_kllh1d.jpg" />
+        </section>
+
+        <section>
+            <div id="upload-container">
+                <label for="upload-img">Select Image for Salt</label>
+                <input type="file" id="upload-img" accept="image/jpeg,image/png,image/gif" />
+            </div>
+
+            <label>Or choose from here:</label>
+            <ul id="saltOptions">
+                <li><img src="./public/images/finger.png" alt="F**k off" /></li>
+                <li><img src="./public/images/flower.png" alt="Respect" /></li>
+                <li><img src="./public/images/fire.png" alt="Lit" /></li>
+                <li><img src="./public/images/heart.png" alt="Awww" /></li>
+                <li><img src="./public/images/lightning.png" alt="Thunderrr" /></li>
+                <li><img src="./public/images/poop.png" alt="Shite" />
+                </li>
+            </ul>
+
+            <div id="bottomTextContainer">
+                <label>Enter bottom text:</label>
+                <textarea id="bottomText" type="text" placeholder="Bottom text...">Bottom text</textarea>
+            </div>
+
+            <a href="#" id="downloadLink" download="salt-bae.jpeg">Download!</a>
+        </section>
+    </div>
+</body>
+
+</html>
