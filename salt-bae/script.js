@@ -87,7 +87,7 @@ onload = function () {
 
     drawBackgroundImage(canvas, ctx, textCanvas);
 
-    const saltImage = drawSalt('https://imgur.com/a/quIYLyk', canvas, ctx);
+    const saltImage = drawSalt('https://image.flaticon.com/icons/png/512/2746/2746582.png', canvas, ctx);
 
     const input = document.querySelector("input[type='file']")
     input.addEventListener('change', function () {
