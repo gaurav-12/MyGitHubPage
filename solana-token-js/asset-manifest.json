@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.92ed6f6c.css",
-    "main.js": "/static/js/main.d584b310.js",
-    "static/js/787.252bf81d.chunk.js": "/static/js/787.252bf81d.chunk.js",
-    "index.html": "/index.html",
-    "main.92ed6f6c.css.map": "/static/css/main.92ed6f6c.css.map",
-    "main.d584b310.js.map": "/static/js/main.d584b310.js.map",
-    "787.252bf81d.chunk.js.map": "/static/js/787.252bf81d.chunk.js.map"
+    "main.css": "/solana-token-js/static/css/main.92ed6f6c.css",
+    "main.js": "/solana-token-js/static/js/main.e57193a1.js",
+    "static/js/787.252bf81d.chunk.js": "/solana-token-js/static/js/787.252bf81d.chunk.js",
+    "index.html": "/solana-token-js/index.html",
+    "main.92ed6f6c.css.map": "/solana-token-js/static/css/main.92ed6f6c.css.map",
+    "main.e57193a1.js.map": "/solana-token-js/static/js/main.e57193a1.js.map",
+    "787.252bf81d.chunk.js.map": "/solana-token-js/static/js/787.252bf81d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92ed6f6c.css",
-    "static/js/main.d584b310.js"
+    "static/js/main.e57193a1.js"
   ]
 }
