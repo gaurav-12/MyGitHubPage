@@ -11,13 +11,13 @@ It is a To-Do Web Application I made while learning **Flutter**.
 ### 💬 [Chat App](https://gaurav-12.github.io/chat_app)
 A [socket](https://socket.io/) based Chatting web application, made in **Flutter**.
 
-### 🧂 [Salt-Bae Meme Generator](https://gaurav-12.github.io/solana-token-js)
+### 🧂 [Salt-Bae Meme Generator](https://gaurav-12.github.io/)
 A PWA to make and download [Salt-Bae Meme](https://knowyourmeme.com/memes/salt-bae)
 
-### 💲 [Solana Token Generator(Devnet)](https://gaurav-12.github.io/sdfasfasfsdfasdkfsdjfskfksd)(Devnet)
+### 💲 [Solana Token Generator(Devnet)](https://gaurav-12.github.io/solana-token-js)
 Generate your own Solana Token, Airdrop some Devnet SOL and more.
 
 #
 
-### 🕳 [404 page](https://gaurav-12.github.io/sdfasfasfsdfasdkfsdjfskfksd)
+### 🕳 [404 page](https://gaurav-12.github.io/dfjsdkjsjserisefjslfeisv)
 Turn the `Auto Play` ON, click anywhere on page, hover over `404 Page`, enjoy 404.
