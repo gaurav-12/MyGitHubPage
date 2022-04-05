@@ -11,7 +11,7 @@ It is a To-Do Web Application I made while learning **Flutter**.
 ### 💬 [Chat App](https://gaurav-12.github.io/chat_app)
 A [socket](https://socket.io/) based Chatting web application, made in **Flutter**.
 
-### 🧂 [Salt-Bae Meme Generator](https://gaurav-12.github.io/)
+### 🧂 [Salt-Bae Meme Generator](https://gaurav-12.github.io/salt-bae)
 A PWA to make and download [Salt-Bae Meme](https://knowyourmeme.com/memes/salt-bae)
 
 ### 💲 [Solana Token Generator(Devnet)](https://gaurav-12.github.io/solana-token-js)
